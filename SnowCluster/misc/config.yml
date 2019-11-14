@@ -1,0 +1,7 @@
+date_interval:
+  end_date: '20190120'
+  start_date: '20190115'
+ext: grib2
+product: h13
+run_flag: Downloaded Data
+selected_date: '20190120'
