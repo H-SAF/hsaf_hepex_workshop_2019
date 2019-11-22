@@ -8,10 +8,14 @@ Part of the workshop will be a demonstration sessions on Thursday afternoon (28 
 
 ## Soil Moisture
 
-Demonstrations (from download to visualization) of surface soil moisture (SSM), root-zone soil moisture (RZSM) and hydrovalidations of the products can be found in the jupyter notebook exercises. To run them, you will first need to install the relevant python libraries, which can be done by running the miniconda scripts provided. The miniconda scripts are will install the libraries on a local environment on either linux or MacOS systems.
+Demonstrations (from download to visualization) of surface soil moisture (SSM), root-zone soil moisture (RZSM) and a drought monitoring application of the products can be found in the soil moisture cluster folder. To run the jupyter notebook exercises, you will first need to install the relevant python libraries, which can be done by running the miniconda scripts provided. The miniconda scripts will install the libraries on a local environment on either linux or MacOS systems. Note that recent operating systems are required (e.g. MacOs Mojave or Ubuntu 16).
 
 Access to the H SAF ftp is also important in order to download the products (new users can register here for a username and password http://hsaf.meteoam.it/user-registration.php)
 
+Instructions in terminal:
+1. Run miniconda script: ./
+2. activate local evironment: source activate work_env
+3. Run jupyter notebooks: jupyter-notebook Exercise. 
 
 
 ## Snow
