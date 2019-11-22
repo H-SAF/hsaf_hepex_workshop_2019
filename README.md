@@ -16,7 +16,7 @@ Instructions in terminal:
 1. Download Exercises and environment setup from cluster folder
 1. Run miniconda script: <i>./conda_env_setup_linux.sh</i> or  <i>./conda_env_setup_macOS.sh</i>
 2. activate local evironment: <i>source activate work_env</i>
-3. Run jupyter notebook exercise: <i>jupyter-notebook workshop_demon_XXXX.ipynb </i>
+3. Run jupyter notebook demo: <i>jupyter-notebook workshop_demo_XXXX.ipynb </i>
 
 
 ## Snow
