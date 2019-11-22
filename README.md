@@ -13,7 +13,7 @@ Demonstrations (from download to visualization) of surface soil moisture (SSM), 
 Access to the H SAF ftp is also important in order to download the products (new users can register here for a username and password http://hsaf.meteoam.it/user-registration.php)
 
 Instructions in terminal:
-1. Run miniconda script: ./
+1. Run miniconda script: <i>./conda_env_setup_linux.sh<i> or ./
 2. activate local evironment: source activate work_env
 3. Run jupyter notebooks: jupyter-notebook Exercise. 
 
