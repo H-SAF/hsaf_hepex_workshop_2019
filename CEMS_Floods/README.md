@@ -13,5 +13,5 @@ The docker image does take a while to install and so we have uploaded the pre cr
 
     ```docker pull enyfeo/efas:latest```
 
-    One of the examples will require access to the CDS System, therefore we recomend users register at [CDS](https://cds.climate.copernicus.eu) and follow
+One of the examples will require access to the CDS System, therefore we recomend users register at [CDS](https://cds.climate.copernicus.eu) and follow
  instructions here and create an API Key [CDS API How To](https://cds.climate.copernicus.eu/api-how-to)
