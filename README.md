@@ -13,21 +13,21 @@ Demonstrations (from download to visualization) of surface soil moisture (SSM), 
 Access to the H SAF ftp is also important in order to download the products (new users can register here for a username and password http://hsaf.meteoam.it/user-registration.php)
 
 Instructions to run soil moisture demo in terminal:
-1. Download Exercises and environment setup from `Cluster Folder`_
+1. Download Exercises and environment setup from [Cluster Folder]
 2. Run miniconda script: <i>./conda_env_setup_linux.sh</i> or  <i>./conda_env_setup_macOS.sh</i>
 3. Activate local environment: <i>source activate work_env</i>
 4. Run jupyter notebook demo: <i>jupyter-notebook workshop_demo_XXXX.ipynb </i>
 
 Instructions to run soil moisture applications in terminal:
-1. Download Exercises and environment setup from `Cluster Folder`_
-2. Download Data from `Dropbox Repository`_
+1. Download Exercises and environment setup from [Cluster Folder]
+2. Download Data from [Dropbox Repository]
 2. Run miniconda script: <i>./conda_env_setup_linux.sh</i> or  <i>./conda_env_setup_macOS.sh</i>
 3. Activate local environment: <i>source activate work_env</i>
 4. Enter to exercise folder: <i>cd /ex_XXXX/ </i>
 5. Run jupyter notebook application: <i>jupyter-notebook ex_XXXX.ipynb </i>
 
-.. _Dropbox Repository: https://www.dropbox.com/sh/0c7qbonalbgk68d/AAAm2EAkw4RP-Wmyyba-2u6-a?dl=0
-.. _Cluster Folder: https://github.com/H-SAF/hsaf_hepex_workshop_2019
+[Cluster Folder]: https://github.com/H-SAF/hsaf_hepex_workshop_2019
+[Dropbox Repository]: https://www.dropbox.com/sh/0c7qbonalbgk68d/AAAm2EAkw4RP-Wmyyba-2u6-a?dl=0
 
 ## Snow
 
