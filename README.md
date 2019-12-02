@@ -14,9 +14,12 @@ Access to the H SAF ftp is also important in order to download the products (new
 
 Instructions to run soil moisture demo in terminal:
 1. Download Exercises and environment setup from [Cluster Folder]
-2. Run miniconda script: <i>./conda_env_setup_linux.sh</i> or  <i>./conda_env_setup_macOS.sh</i>
-3. Activate local environment: <i>source activate work_env</i>
-4. Run jupyter notebook demo: <i>jupyter-notebook workshop_demo_XXXX.ipynb </i>
+2. Download SSM test data from [Dropbox Repository]
+3. Run miniconda script: <i>./conda_env_setup_linux.sh</i> or  <i>./conda_env_setup_macOS.sh</i>
+4. Activate local environment: <i>source activate work_env</i>
+5. Run jupyter notebook demo: <i>jupyter-notebook workshop_demo_XXXX.ipynb </i>
+
+[Dropbox Repository]: https://www.dropbox.com/sh/usc3v92iruetd2k/AAAmpR7oPE5sLLyHM_vbXZzfa?dl=0
 
 Instructions to run soil moisture applications in terminal:
 1. Download Exercises and environment setup from [Cluster Folder]
